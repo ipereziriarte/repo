@@ -1,4 +1,3 @@
-repo
-====
-
-Simple repo for coursera startup class
+Otar
+Kapatadze
+Coursera Git and Github Course For Front End Developers
